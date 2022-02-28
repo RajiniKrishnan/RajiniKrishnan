@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajiniKrishnan
 - 👀 I’m interested in data science & Machine Learning Projects. 
-- 🌱 I’m currently learning Machine Learning, NLP, Deep Learning through Python. 
+- 🌱 I’m currently learning Machine Learning, NLP, Deep Learning. Experienced in Python, Power BI, Tableau. 
 - 💞️ I’m looking to collaborate on Data Science projects and Internships 
 - 📫 How to reach me rajini_neha@yahoo.com
 
